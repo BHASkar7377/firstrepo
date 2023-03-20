@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1679037832,,"wq"
+|2,0,1679208981,,"wq"
 :q
 |2,0,1679037330,,"q"
 
@@ -27,36 +27,76 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/user_pass.yml
-|4,48,2,0,1679037832,"~/user_pass.yml"
-'1  2  0  ~/usernames.yml
-|4,49,2,0,1679037713,"~/usernames.yml"
-'2  1  0  ~/users.yml
-|4,50,1,0,1679037515,"~/users.yml"
-'3  12  19  ~/loop.yml
-|4,51,12,19,1679037330,"~/loop.yml"
-'4  8  1  ~/handler.yml
-|4,52,8,1,1679036616,"~/handler.yml"
+'0  1  0  ~/.gitignore
+|4,48,1,0,1679208981,"~/.gitignore"
+'1  1  1  ~/.gitignore
+|4,49,1,1,1679151619,"~/.gitignore"
+'2  2  0  ~/user_pass.yml
+|4,50,2,0,1679037832,"~/user_pass.yml"
+'3  2  0  ~/usernames.yml
+|4,51,2,0,1679037713,"~/usernames.yml"
+'4  1  0  ~/users.yml
+|4,52,1,0,1679037515,"~/users.yml"
 '5  12  19  ~/loop.yml
-|4,53,12,19,1679036549,"~/loop.yml"
+|4,53,12,19,1679037330,"~/loop.yml"
 '6  8  1  ~/handler.yml
-|4,54,8,1,1679036014,"~/handler.yml"
-'7  8  1  ~/handler.yml
-|4,55,8,1,1679035741,"~/handler.yml"
+|4,54,8,1,1679036616,"~/handler.yml"
+'7  12  19  ~/loop.yml
+|4,55,12,19,1679036549,"~/loop.yml"
 '8  8  1  ~/handler.yml
-|4,56,8,1,1679035741,"~/handler.yml"
-'9  6  43  ~/handler.yml
-|4,57,6,43,1679035631,"~/handler.yml"
+|4,56,8,1,1679036014,"~/handler.yml"
+'9  8  1  ~/handler.yml
+|4,57,8,1,1679035741,"~/handler.yml"
 
 # Jumplist (newest first):
+-'  1  0  ~/.gitignore
+|4,39,1,0,1679208981,"~/.gitignore"
+-'  1  1  ~/.gitignore
+|4,39,1,1,1679151619,"~/.gitignore"
 -'  2  0  ~/user_pass.yml
 |4,39,2,0,1679037832,"~/user_pass.yml"
+-'  2  0  ~/user_pass.yml
+|4,39,2,0,1679037832,"~/user_pass.yml"
+-'  2  0  ~/user_pass.yml
+|4,39,2,0,1679037832,"~/user_pass.yml"
+-'  2  0  ~/user_pass.yml
+|4,39,2,0,1679037832,"~/user_pass.yml"
+-'  1  0  ~/user_pass.yml
+|4,39,1,0,1679037761,"~/user_pass.yml"
+-'  1  0  ~/user_pass.yml
+|4,39,1,0,1679037761,"~/user_pass.yml"
+-'  1  0  ~/user_pass.yml
+|4,39,1,0,1679037761,"~/user_pass.yml"
 -'  1  0  ~/user_pass.yml
 |4,39,1,0,1679037761,"~/user_pass.yml"
 -'  2  0  ~/usernames.yml
 |4,39,2,0,1679037713,"~/usernames.yml"
 -'  2  0  ~/usernames.yml
 |4,39,2,0,1679037713,"~/usernames.yml"
+-'  2  0  ~/usernames.yml
+|4,39,2,0,1679037713,"~/usernames.yml"
+-'  2  0  ~/usernames.yml
+|4,39,2,0,1679037713,"~/usernames.yml"
+-'  2  0  ~/usernames.yml
+|4,39,2,0,1679037713,"~/usernames.yml"
+-'  2  0  ~/usernames.yml
+|4,39,2,0,1679037713,"~/usernames.yml"
+-'  2  0  ~/usernames.yml
+|4,39,2,0,1679037713,"~/usernames.yml"
+-'  2  0  ~/usernames.yml
+|4,39,2,0,1679037713,"~/usernames.yml"
+-'  1  0  ~/usernames.yml
+|4,39,1,0,1679037672,"~/usernames.yml"
+-'  1  0  ~/usernames.yml
+|4,39,1,0,1679037672,"~/usernames.yml"
+-'  1  0  ~/usernames.yml
+|4,39,1,0,1679037672,"~/usernames.yml"
+-'  1  0  ~/usernames.yml
+|4,39,1,0,1679037672,"~/usernames.yml"
+-'  1  0  ~/usernames.yml
+|4,39,1,0,1679037672,"~/usernames.yml"
+-'  1  0  ~/usernames.yml
+|4,39,1,0,1679037672,"~/usernames.yml"
 -'  1  0  ~/usernames.yml
 |4,39,1,0,1679037672,"~/usernames.yml"
 -'  1  0  ~/usernames.yml
@@ -69,6 +109,78 @@
 |4,39,1,0,1679037515,"~/users.yml"
 -'  1  0  ~/users.yml
 |4,39,1,0,1679037515,"~/users.yml"
+-'  1  0  ~/users.yml
+|4,39,1,0,1679037515,"~/users.yml"
+-'  1  0  ~/users.yml
+|4,39,1,0,1679037515,"~/users.yml"
+-'  1  0  ~/users.yml
+|4,39,1,0,1679037515,"~/users.yml"
+-'  1  0  ~/users.yml
+|4,39,1,0,1679037515,"~/users.yml"
+-'  1  0  ~/users.yml
+|4,39,1,0,1679037515,"~/users.yml"
+-'  1  0  ~/users.yml
+|4,39,1,0,1679037515,"~/users.yml"
+-'  1  0  ~/users.yml
+|4,39,1,0,1679037515,"~/users.yml"
+-'  1  0  ~/users.yml
+|4,39,1,0,1679037515,"~/users.yml"
+-'  1  0  ~/users.yml
+|4,39,1,0,1679037515,"~/users.yml"
+-'  1  0  ~/users.yml
+|4,39,1,0,1679037515,"~/users.yml"
+-'  1  0  ~/users.yml
+|4,39,1,0,1679037515,"~/users.yml"
+-'  1  0  ~/users.yml
+|4,39,1,0,1679037515,"~/users.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
+-'  12  19  ~/loop.yml
+|4,39,12,19,1679037330,"~/loop.yml"
 -'  12  19  ~/loop.yml
 |4,39,12,19,1679037330,"~/loop.yml"
 -'  12  19  ~/loop.yml
@@ -117,140 +229,35 @@
 |4,39,8,1,1679036616,"~/handler.yml"
 -'  8  1  ~/handler.yml
 |4,39,8,1,1679036616,"~/handler.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  12  19  ~/loop.yml
-|4,39,12,19,1679036549,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
--'  1  0  ~/loop.yml
-|4,39,1,0,1679036205,"~/loop.yml"
 -'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
+|4,39,8,1,1679036616,"~/handler.yml"
 -'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
+|4,39,8,1,1679036616,"~/handler.yml"
 -'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
+|4,39,8,1,1679036616,"~/handler.yml"
 -'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
+|4,39,8,1,1679036616,"~/handler.yml"
 -'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
+|4,39,8,1,1679036616,"~/handler.yml"
 -'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
+|4,39,8,1,1679036616,"~/handler.yml"
 -'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
+|4,39,8,1,1679036616,"~/handler.yml"
 -'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
+|4,39,8,1,1679036616,"~/handler.yml"
 -'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
+|4,39,8,1,1679036616,"~/handler.yml"
 -'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
--'  8  1  ~/handler.yml
-|4,39,8,1,1679036014,"~/handler.yml"
+|4,39,8,1,1679036616,"~/handler.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1679208978	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
 > ~/user_pass.yml
 	*	1679037831	0

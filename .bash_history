@@ -245,3 +245,121 @@ sudo yum remove git version 2.39.2
 sudo yum remove git*
 git --version
 exit
+cd
+clear
+git status
+git --version
+ls
+git init
+git status
+git add .
+git status
+ls
+cd /home/
+ls
+cd ec2-user/
+ls
+ls ec2-user/
+sudo su
+cd
+ls
+git status
+git rm --cached trs
+git status
+git add trs
+git status
+git restore --staged trs
+git status
+git restore --staged .bashrc
+ls
+git rm --cached .
+git rm -r --cached .
+git status
+ls -al
+cd .ssh/
+ls
+cd
+git add .
+git status
+git rm -r --cached vars.yml. users.yml 
+git status
+git add .
+git status
+git commit -m "trs added"
+git config --global user.email "rk11811181@gmail.com"
+git config --global user.name "rk"
+git commit -m "trs added"
+git status
+ll
+touch f{1..4}
+ll
+git status
+git rm --cached f1
+git status
+git restore --staged f1
+git status
+git restore --staged f1
+git status
+git rm --cached f1
+git status
+git rm -r --cached .
+git status
+vi .gitignore
+git status
+git branch
+ls 
+cp -r * files .
+ls
+cp -r * .files
+pwd
+cp -r * /home/ansibel/files
+mkdir files
+ls
+cp -r * /home/ansible/files/
+ls
+cp -r * /home/ansible/files
+cp -r * /home/ansible/files/.
+ls
+cd files/
+ls
+cd files/
+ls
+cd files/
+ls
+pwd
+cd files/
+ls
+cd
+ls
+rm -rf *
+ls
+git status
+clear
+git branch
+git log
+git branch ansible
+git branch
+git checkout ansible 
+git branch
+touch ansible{1..3}
+ls
+git add ans*
+git status
+ls
+git add ans*
+git status
+ls
+git branch
+ls
+git status
+git rm --cached ans*
+ls
+git status
+restart
+reboot
+systemctl reboot -i
+systemctl status reboot.target 
+systemctl start reboot.target 
+srevice reboot.target start
+service reboot.target start
+sudo su
